@@ -1,8 +1,8 @@
 {
   "name": "react-captcha-code",
   "version": "1.0.7",
-  "description": "基于React和canvas的验证码",
-  "main": "build/es/index.js",
+  "description": "captcha",
+  "main": "src/index.ts",
   "types": "build/types/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,9 +16,9 @@
     "build:webpack": "webpack --config webpack.config.js"
   },
   "keywords": [
-    "验证码",
-    "react验证码",
-    "canvas验证码"
+    "captcha",
+    "react-captcha",
+    "canvas-captcha"
   ],
   "author": {
     "email": "1347276498@qq.com",
